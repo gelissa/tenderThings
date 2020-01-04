@@ -1,0 +1,12 @@
+.titlePage {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.p {
+    text-align: center;
+    font-size: 30px;
+    top: 500px;
+    position: relative;
+}

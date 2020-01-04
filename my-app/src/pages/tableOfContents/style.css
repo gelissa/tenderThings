@@ -1,0 +1,17 @@
+.tocPage {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.toc {
+    text-align: center;
+    font-size: 30px;
+    top: 145px;
+    position: relative;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 5px;
+}
