@@ -1,0 +1,19 @@
+.poem {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: bold;
+    position: relative;
+    left: 0;
+    top: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    top: 200px;
+    position: relative;
+}
