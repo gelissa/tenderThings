@@ -26,6 +26,7 @@ function App() {
       <PoemSeven />
       <PoemEight />
       <PoemNine />
+      <PoemTen />
     </div>
   );
 }
