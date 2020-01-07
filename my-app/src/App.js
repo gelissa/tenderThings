@@ -8,6 +8,7 @@ import PoemThree from './pages/whereDoesTheRiverFlow/poem';
 import PoemFour from './pages/garden/poem';
 import PoemFive from './pages/amIAPerson/poem';
 import PoemSix from './pages/theRoom/poem';
+import PoemSeven from './pages/theRoom/poem';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <PoemFour />
       <PoemFive />
       <PoemSix />
+      <PoemSeven />
     </div>
   );
 }
