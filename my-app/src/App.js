@@ -9,6 +9,7 @@ import PoemFour from './pages/garden/poem';
 import PoemFive from './pages/amIAPerson/poem';
 import PoemSix from './pages/theRoom/poem';
 import PoemSeven from './pages/theRoom/poem';
+import PoemEight from './pages/aGodOfBlueSkin/poem';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <PoemFive />
       <PoemSix />
       <PoemSeven />
+      <PoemEight />
     </div>
   );
 }
