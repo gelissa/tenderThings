@@ -13,6 +13,7 @@ import PoemEight from './pages/aGodOfBlueSkin/poem';
 import PoemNine from './pages/theWeightOfMyTears/poem';
 import PoemTen from './pages/empty/poem';
 import PoemEleven from './pages/stigma/poem';
+import PoemTwelve from './pages/bzzz/poem';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       <PoemNine />
       <PoemTen />
       <PoemEleven />
+      <PoemTwelve />
     </div>
   );
 }

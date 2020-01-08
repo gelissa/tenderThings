@@ -6,7 +6,7 @@ function PoemEleven(){
         return (
             <div className="poem">
                 <h1 className="title">
-                    THE WEIGHT OF MY TEARS
+                    STIGMA
                 </h1>
                 <p className="p">
                     don't touch me <br />
