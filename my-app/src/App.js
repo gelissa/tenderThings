@@ -16,6 +16,8 @@ import PoemEleven from './pages/stigma/poem';
 import PoemTwelve from './pages/bzzz/poem';
 import PoemThirteen from './pages/iToldMyselfAStory/poem';
 import PoemFourteen from './pages/yearsWereSpentWaiting/poem';
+import PoemSixteen from './pages/theCryOfTheBrokenWoman/poem';
+import PoemSeventeen from './pages/thePrayerOfTheUnholy/poem';
 
 function App() {
   return (
@@ -36,6 +38,8 @@ function App() {
       <PoemTwelve />
       <PoemThirteen />
       <PoemFourteen />
+      <PoemSixteen />
+      <PoemSeventeen />
     </div>
   );
 }
