@@ -19,7 +19,7 @@ function PoemTwelve(){
                     buzzing in arrival<br />
                     <br />
                     don't let them in! <br />
-                    they're gonna take me away <br />
+                    they finna take me away <br />
                     
                     
                     
